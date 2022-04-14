@@ -2,7 +2,7 @@
 
 #### 1. branch
 
-![화면 캡처 2022-04-14 141708](Git 브랜치(branch).assets/화면 캡처 2022-04-14 141708.png)
+![branch](Git 브랜치(branch).assets/화면 캡처 2022-04-14 141708.png)
 
 
 
@@ -34,6 +34,10 @@
 *스위치가 안될경우는 commit을 했는지 반드시 확인해야함. 
 
 commit을 안하고 switch명령어를 사용하게 될경우 switch가 안됨.
+
+![branch switch](Git 브랜치(branch).assets/화면 캡처 2022-04-14 142909.png)
+
+
 
 
 
