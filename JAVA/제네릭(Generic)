@@ -1,0 +1,8 @@
+# 제네릭
+---
+## 제네릭이란?
+제네릭은 컴파일 할대 강한 타입 체크를 할 수 있음.
+
+## 제네릭 타입(class<T>, interface<T>)
+`public class 클래스명<T>{///}`
+`public interface 인터페이스명<T>{///}`
